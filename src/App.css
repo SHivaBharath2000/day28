@@ -1,0 +1,59 @@
+.row{
+  position: relative;
+    bottom: 309px;
+    height: 341px;
+    margin-top: 166px;
+    margin-left: 16%;
+    display: flex;
+    justify-content: space-between;
+    width:inherit;
+    background-color: #f0f0f0;
+    width: 70%;
+      
+}
+.count{
+  margin-left: 96px;
+  position: relative;
+  top: -30px;
+  right: 198px;
+}
+.btn{
+  background-color: white;
+  color: red;
+}
+.contain{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+.labels {
+  font-weight: bold;
+}
+.values {
+  text-align: right;
+}
+
+.col-1{
+  width:21%;
+ 
+}
+.col-2{
+  width: 45%;
+ 
+}
+.col-3{
+ 
+  width: 14%;
+}
+.col-4{
+  width:20%;
+  /* display: flex; */
+  align-content: end;
+  
+}
+.btn.btn-danger{
+    margin-top: 143px;
+    color: red;
+}
